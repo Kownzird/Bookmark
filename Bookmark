@@ -13,7 +13,6 @@
                     },
                     {
                         "dateAdded": 1737694535352,
-                        "dateLastUsed": 1737869006361,
                         "id": "50794",
                         "index": 1,
                         "parentId": "50784",
@@ -22,7 +21,6 @@
                     },
                     {
                         "dateAdded": 1737694535352,
-                        "dateLastUsed": 1737869008108,
                         "id": "50795",
                         "index": 2,
                         "parentId": "50784",
@@ -39,6 +37,7 @@
                     },
                     {
                         "dateAdded": 1737694535352,
+                        "dateLastUsed": 1738639537973,
                         "id": "50797",
                         "index": 4,
                         "parentId": "50784",
@@ -95,7 +94,6 @@
                     },
                     {
                         "dateAdded": 1737694535353,
-                        "dateLastUsed": 1737820328752,
                         "id": "50804",
                         "index": 11,
                         "parentId": "50784",
@@ -4766,6 +4764,7 @@
                             },
                             {
                                 "dateAdded": 1737694535402,
+                                "dateLastUsed": 1738600217428,
                                 "id": "51159",
                                 "index": 9,
                                 "parentId": "50911",
@@ -4958,7 +4957,6 @@
                             },
                             {
                                 "dateAdded": 1737694535433,
-                                "dateLastUsed": 1737860948110,
                                 "id": "51326",
                                 "index": 2,
                                 "parentId": "51113",
@@ -4991,7 +4989,6 @@
                             },
                             {
                                 "dateAdded": 1737694535433,
-                                "dateLastUsed": 1737860984481,
                                 "id": "51330",
                                 "index": 6,
                                 "parentId": "51113",
@@ -5000,7 +4997,6 @@
                             },
                             {
                                 "dateAdded": 1737694535433,
-                                "dateLastUsed": 1737862637538,
                                 "id": "51331",
                                 "index": 7,
                                 "parentId": "51113",
@@ -5009,7 +5005,6 @@
                             },
                             {
                                 "dateAdded": 1737694535434,
-                                "dateLastUsed": 1737860966570,
                                 "id": "51332",
                                 "index": 8,
                                 "parentId": "51113",
@@ -5044,6 +5039,7 @@
                         "children": [
                             {
                                 "dateAdded": 1737694547750,
+                                "dateLastUsed": 1738649626198,
                                 "id": "51423",
                                 "index": 0,
                                 "parentId": "51424",
@@ -5061,7 +5057,35 @@
                     {
                         "children": [
                             {
+                                "dateAdded": 1737866802632,
+                                "id": "51435",
+                                "index": 0,
+                                "parentId": "51436",
+                                "title": "Lisk",
+                                "url": "https://guild.xyz/lisk"
+                            },
+                            {
+                                "dateAdded": 1737872055859,
+                                "dateLastUsed": 1738649638480,
+                                "id": "51438",
+                                "index": 1,
+                                "parentId": "51436",
+                                "title": "Lisk Portal",
+                                "url": "https://portal.lisk.com/"
+                            }
+                        ],
+                        "dateAdded": 1737866813790,
+                        "dateGroupModified": 1737872055859,
+                        "id": "51436",
+                        "index": 4,
+                        "parentId": "50908",
+                        "title": "Lisk"
+                    },
+                    {
+                        "children": [
+                            {
                                 "dateAdded": 1737812592540,
+                                "dateLastUsed": 1738650171821,
                                 "id": "51428",
                                 "index": 0,
                                 "parentId": "51427",
@@ -5072,7 +5096,7 @@
                         "dateAdded": 1737812075853,
                         "dateGroupModified": 1737812592540,
                         "id": "51427",
-                        "index": 4,
+                        "index": 5,
                         "parentId": "50908",
                         "title": "Soso"
                     },
@@ -5090,90 +5114,66 @@
                         "dateAdded": 1737818196964,
                         "dateGroupModified": 1737818196964,
                         "id": "51431",
-                        "index": 5,
+                        "index": 6,
                         "parentId": "50908",
                         "title": "GTE"
                     },
                     {
                         "children": [
                             {
+                                "dateAdded": 1738340776953,
+                                "dateLastUsed": 1738600774496,
+                                "id": "51452",
+                                "index": 0,
+                                "parentId": "51454",
+                                "title": "Sahara Legends",
+                                "url": "https://legends.saharalabs.ai/"
+                            },
+                            {
+                                "dateAdded": 1738340774798,
+                                "dateLastUsed": 1738636337457,
+                                "id": "51451",
+                                "index": 1,
+                                "parentId": "51454",
+                                "title": "faucet.saharalabs.ai",
+                                "url": "https://faucet.saharalabs.ai/"
+                            },
+                            {
                                 "dateAdded": 1737820241848,
                                 "id": "51432",
-                                "index": 0,
-                                "parentId": "51433",
+                                "index": 2,
+                                "parentId": "51454",
                                 "title": "Data Services Season 2 Application",
                                 "url": "https://hi.saharalabs.ai/apply-season-2"
                             }
                         ],
-                        "dateAdded": 1737820253962,
-                        "dateGroupModified": 1737866802632,
-                        "id": "51433",
-                        "index": 6,
+                        "dateAdded": 1738373409342,
+                        "dateGroupModified": 1738373434598,
+                        "id": "51454",
+                        "index": 7,
                         "parentId": "50908",
                         "title": "SaharaAI"
                     },
                     {
-                        "children": [
-                            {
-                                "dateAdded": 1737866802632,
-                                "id": "51435",
-                                "index": 0,
-                                "parentId": "51436",
-                                "title": "Lisk",
-                                "url": "https://guild.xyz/lisk"
-                            },
-                            {
-                                "dateAdded": 1737872055859,
-                                "id": "51438",
-                                "index": 1,
-                                "parentId": "51436",
-                                "title": "Lisk Portal",
-                                "url": "https://portal.lisk.com/"
-                            }
-                        ],
-                        "dateAdded": 1737866813790,
-                        "dateGroupModified": 1737872055859,
-                        "id": "51436",
-                        "index": 7,
-                        "parentId": "50908",
-                        "title": "Lisk"
-                    },
-                    {
-                        "dateAdded": 1737694535397,
-                        "id": "51114",
+                        "dateAdded": 1738051918475,
+                        "id": "51443",
                         "index": 8,
                         "parentId": "50908",
-                        "title": "zkSync Wallet | zkSync: secure, scalable crypto payments",
-                        "url": "https://lite.zksync.io/account/"
+                        "title": "Sentient Fingerprint",
+                        "url": "https://campaign.sentient.xyz/closed"
                     },
                     {
-                        "dateAdded": 1737694535397,
-                        "id": "51115",
+                        "dateAdded": 1737899992038,
+                        "id": "51439",
                         "index": 9,
                         "parentId": "50908",
-                        "title": "zkSync Block Explorer",
-                        "url": "https://zkscan.io/"
-                    },
-                    {
-                        "dateAdded": 1737694535397,
-                        "id": "51116",
-                        "index": 10,
-                        "parentId": "50908",
-                        "title": "ZigZag",
-                        "url": "https://www.zigzag.exchange/zh"
-                    },
-                    {
-                        "dateAdded": 1737694535397,
-                        "id": "51117",
-                        "index": 11,
-                        "parentId": "50908",
-                        "title": "1.00023 | WETH-ETH | ZigZag Exchange",
-                        "url": "https://trade.zigzag.exchange/"
+                        "title": "LayerEdge | Dashboard",
+                        "url": "https://dashboard.layeredge.io/"
                     },
                     {
                         "dateAdded": 1737694535398,
                         "id": "51118",
-                        "index": 12,
+                        "index": 10,
                         "parentId": "50908",
                         "title": "MyToken",
                         "url": "https://www.mytokencap.com/"
@@ -5181,7 +5181,7 @@
                     {
                         "dateAdded": 1737694535398,
                         "id": "51119",
-                        "index": 13,
+                        "index": 11,
                         "parentId": "50908",
                         "title": "BTC_USDT",
                         "url": "https://www.mytokencap.com/currencies/btc/49653/"
@@ -5189,7 +5189,7 @@
                     {
                         "dateAdded": 1737694535398,
                         "id": "51120",
-                        "index": 14,
+                        "index": 12,
                         "parentId": "50908",
                         "title": "ETH_USDT",
                         "url": "https://www.mytokencap.com/currencies/eth/49654/"
@@ -5197,7 +5197,7 @@
                     {
                         "dateAdded": 1737694535398,
                         "id": "51121",
-                        "index": 15,
+                        "index": 13,
                         "parentId": "50908",
                         "title": "BTC Price",
                         "url": "https://www.blockchain.com/explorer/assets/btc"
@@ -5205,7 +5205,7 @@
                     {
                         "dateAdded": 1737694535398,
                         "id": "51122",
-                        "index": 16,
+                        "index": 14,
                         "parentId": "50908",
                         "title": "Blockchain Exchange API",
                         "url": "https://exchange.blockchain.com/api/#introduction"
@@ -5213,14 +5213,70 @@
                     {
                         "dateAdded": 1737694535398,
                         "id": "51123",
-                        "index": 17,
+                        "index": 15,
                         "parentId": "50908",
                         "title": "OKLink API接入指南",
                         "url": "https://www.oklink.com/docs/zh/#explorer-api-chain-info-query-block-basic-information"
+                    },
+                    {
+                        "dateAdded": 1737970850277,
+                        "id": "51441",
+                        "index": 16,
+                        "parentId": "50908",
+                        "title": "GEMS",
+                        "url": "https://gems.vip/astranova"
+                    },
+                    {
+                        "dateAdded": 1738075639351,
+                        "id": "51444",
+                        "index": 17,
+                        "parentId": "50908",
+                        "title": "Injective Hub",
+                        "url": "https://hub.injective.network/"
+                    },
+                    {
+                        "dateAdded": 1738245982136,
+                        "id": "51445",
+                        "index": 18,
+                        "parentId": "50908",
+                        "title": "运行 Privanetix 节点 指南. 什么是 Privasea？ | by 子清 | Jan, 2025 | Medium",
+                        "url": "https://medium.com/@qklxsqf/%E8%BF%90%E8%A1%8C-privanetix-%E8%8A%82%E7%82%B9-%E6%8C%87%E5%8D%97-8162b3b07f59"
+                    },
+                    {
+                        "dateAdded": 1738245986333,
+                        "id": "51446",
+                        "index": 19,
+                        "parentId": "50908",
+                        "title": "How to use Privanetix node | Privasea",
+                        "url": "https://www.privasea.ai/privanetix-node"
+                    },
+                    {
+                        "dateAdded": 1738308037766,
+                        "id": "51448",
+                        "index": 20,
+                        "parentId": "50908",
+                        "title": "快连 VPN - 账户",
+                        "url": "https://www.k8rycixw3v.com/account/device"
+                    },
+                    {
+                        "dateAdded": 1738320940440,
+                        "id": "51449",
+                        "index": 21,
+                        "parentId": "50908",
+                        "title": "Arbitrum Faucet for Sepolia",
+                        "url": "https://faucet.quicknode.com/arbitrum/sepolia"
+                    },
+                    {
+                        "dateAdded": 1738324316748,
+                        "id": "51450",
+                        "index": 22,
+                        "parentId": "50908",
+                        "title": "DROP - Your X Journey Pays Off",
+                        "url": "https://dropair.io/"
                     }
                 ],
                 "dateAdded": 1737694535366,
-                "dateGroupModified": 1737871062112,
+                "dateGroupModified": 1738373419743,
                 "id": "50908",
                 "index": 7,
                 "parentId": "1",
