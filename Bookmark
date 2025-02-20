@@ -4812,6 +4812,7 @@
                             },
                             {
                                 "dateAdded": 1739981017136,
+                                "dateLastUsed": 1739990017496,
                                 "id": "54492",
                                 "index": 7,
                                 "parentId": "54234",
@@ -5257,10 +5258,18 @@
                         "parentId": "54107",
                         "title": "Nexus OS",
                         "url": "https://app.nexus.xyz/"
+                    },
+                    {
+                        "dateAdded": 1740010944577,
+                        "id": "54756",
+                        "index": 25,
+                        "parentId": "54107",
+                        "title": "GitHub - GzGod/Nexus-2",
+                        "url": "https://github.com/GzGod/Nexus-2"
                     }
                 ],
                 "dateAdded": 1739981017095,
-                "dateGroupModified": 1739987879901,
+                "dateGroupModified": 1740010944577,
                 "id": "54107",
                 "index": 7,
                 "parentId": "1",
