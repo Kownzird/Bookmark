@@ -5,7 +5,7 @@
                 "children": [
                     {
                         "dateAdded": 1740533973361,
-                        "dateLastUsed": 1740569354345,
+                        "dateLastUsed": 1741590216435,
                         "id": "18564",
                         "index": 0,
                         "parentId": "18554",
@@ -22,7 +22,7 @@
                     },
                     {
                         "dateAdded": 1740533973361,
-                        "dateLastUsed": 1740646654723,
+                        "dateLastUsed": 1741316627209,
                         "id": "18566",
                         "index": 2,
                         "parentId": "18554",
@@ -39,6 +39,7 @@
                     },
                     {
                         "dateAdded": 1740533973362,
+                        "dateLastUsed": 1741577895413,
                         "id": "18568",
                         "index": 4,
                         "parentId": "18554",
@@ -3783,6 +3784,7 @@
                     },
                     {
                         "dateAdded": 1740533973367,
+                        "dateLastUsed": 1740729814564,
                         "id": "18635",
                         "index": 3,
                         "parentId": "18558",
@@ -3823,6 +3825,7 @@
                     },
                     {
                         "dateAdded": 1740533973367,
+                        "dateLastUsed": 1741049326852,
                         "id": "18640",
                         "index": 8,
                         "parentId": "18558",
@@ -3831,6 +3834,7 @@
                     },
                     {
                         "dateAdded": 1740533973367,
+                        "dateLastUsed": 1741573694915,
                         "id": "18641",
                         "index": 9,
                         "parentId": "18558",
@@ -3911,6 +3915,7 @@
                     },
                     {
                         "dateAdded": 1740533973369,
+                        "dateLastUsed": 1740714618342,
                         "id": "18651",
                         "index": 19,
                         "parentId": "18558",
@@ -3919,6 +3924,7 @@
                     },
                     {
                         "dateAdded": 1740533973369,
+                        "dateLastUsed": 1741049336627,
                         "id": "18652",
                         "index": 20,
                         "parentId": "18558",
@@ -3935,7 +3941,7 @@
                     },
                     {
                         "dateAdded": 1740533973369,
-                        "dateLastUsed": 1740563179969,
+                        "dateLastUsed": 1741577901154,
                         "id": "18654",
                         "index": 22,
                         "parentId": "18558",
@@ -4168,7 +4174,7 @@
                     },
                     {
                         "dateAdded": 1740533973371,
-                        "dateLastUsed": 1740557006203,
+                        "dateLastUsed": 1741309907375,
                         "id": "18683",
                         "index": 51,
                         "parentId": "18558",
@@ -4177,6 +4183,7 @@
                     },
                     {
                         "dateAdded": 1740559544186,
+                        "dateLastUsed": 1741071248399,
                         "id": "19222",
                         "index": 52,
                         "parentId": "18558",
@@ -4185,6 +4192,7 @@
                     },
                     {
                         "dateAdded": 1740559620666,
+                        "dateLastUsed": 1740969466458,
                         "id": "19223",
                         "index": 53,
                         "parentId": "18558",
@@ -4198,10 +4206,44 @@
                         "parentId": "18558",
                         "title": "dl.espressif.com.cn/dl/esp-idf/?idf=4.4",
                         "url": "https://dl.espressif.com.cn/dl/esp-idf/?idf=4.4"
+                    },
+                    {
+                        "dateAdded": 1741167875062,
+                        "dateLastUsed": 1741274430471,
+                        "id": "19236",
+                        "index": 55,
+                        "parentId": "18558",
+                        "title": "VAMeter",
+                        "url": "https://ezdata-vameter.m5stack.com/48CA4339B2DC"
+                    },
+                    {
+                        "dateAdded": 1741272877446,
+                        "dateLastUsed": 1741310723590,
+                        "id": "19238",
+                        "index": 56,
+                        "parentId": "18558",
+                        "title": "ESP-IDF Programming Guide - ESP32-S3 - — ESP-IDF Programming Guide v5.1.3 documentation",
+                        "url": "https://docs.espressif.com/projects/esp-idf/en/v5.1.3/esp32s3/index.html"
+                    },
+                    {
+                        "dateAdded": 1741272895298,
+                        "id": "19239",
+                        "index": 57,
+                        "parentId": "18558",
+                        "title": "快速入门 - ESP32-S3 - — ESP-IDF 编程指南 v5.1.3 文档",
+                        "url": "https://docs.espressif.com/projects/esp-idf/zh_CN/v5.1.3/esp32s3/get-started/index.html"
+                    },
+                    {
+                        "dateAdded": 1741337331464,
+                        "id": "19241",
+                        "index": 58,
+                        "parentId": "18558",
+                        "title": "Serial-Studio：一个跨平台的嵌入式数据可视化神器",
+                        "url": "https://mp.weixin.qq.com/s/9eQXz6Y6RbJ9QIxlixXxXQ"
                     }
                 ],
                 "dateAdded": 1740533973334,
-                "dateGroupModified": 1740676639111,
+                "dateGroupModified": 1741590550032,
                 "id": "18558",
                 "index": 4,
                 "parentId": "1",
@@ -4611,6 +4653,7 @@
                             },
                             {
                                 "dateAdded": 1740533973409,
+                                "dateLastUsed": 1741577696236,
                                 "id": "18930",
                                 "index": 5,
                                 "parentId": "18689",
@@ -4619,7 +4662,7 @@
                             },
                             {
                                 "dateAdded": 1740533973409,
-                                "dateLastUsed": 1740621521990,
+                                "dateLastUsed": 1741570275961,
                                 "id": "18931",
                                 "index": 6,
                                 "parentId": "18689",
@@ -4678,6 +4721,7 @@
                             },
                             {
                                 "dateAdded": 1740533973410,
+                                "dateLastUsed": 1740714642747,
                                 "id": "18937",
                                 "index": 5,
                                 "parentId": "18690",
@@ -4965,10 +5009,18 @@
                                 "parentId": "18691",
                                 "title": "Tabby ",
                                 "url": "https://tabby.sh/"
+                            },
+                            {
+                                "dateAdded": 1741590550032,
+                                "id": "19243",
+                                "index": 19,
+                                "parentId": "18691",
+                                "title": "开源科学工程技术软件介绍 – 串口数据处理工具Serial Studio",
+                                "url": "https://zhuanlan.zhihu.com/p/702476385"
                             }
                         ],
                         "dateAdded": 1740533973372,
-                        "dateGroupModified": 1740705277562,
+                        "dateGroupModified": 1741590562533,
                         "id": "18691",
                         "index": 2,
                         "parentId": "18560",
@@ -5009,10 +5061,18 @@
                                 "parentId": "18694",
                                 "title": "比特币区块浏览器 - BTC.com",
                                 "url": "https://btc.com/"
+                            },
+                            {
+                                "dateAdded": 1740533973375,
+                                "id": "18728",
+                                "index": 1,
+                                "parentId": "18694",
+                                "title": "Crypto Fear & Greed Index - Bitcoin Sentiment - Alternative.me",
+                                "url": "https://alternative.me/crypto/fear-and-greed-index/"
                             }
                         ],
                         "dateAdded": 1740533973372,
-                        "dateGroupModified": 1740533973413,
+                        "dateGroupModified": 1741167875062,
                         "id": "18694",
                         "index": 0,
                         "parentId": "18561",
@@ -5072,7 +5132,7 @@
                         "children": [
                             {
                                 "dateAdded": 1740533973413,
-                                "dateLastUsed": 1740668788536,
+                                "dateLastUsed": 1741014367060,
                                 "id": "18976",
                                 "index": 0,
                                 "parentId": "18696",
@@ -5117,7 +5177,7 @@
                         "children": [
                             {
                                 "dateAdded": 1740533973414,
-                                "dateLastUsed": 1740668792567,
+                                "dateLastUsed": 1741450053390,
                                 "id": "18979",
                                 "index": 0,
                                 "parentId": "18698",
@@ -5194,7 +5254,7 @@
                     },
                     {
                         "dateAdded": 1740533973372,
-                        "dateLastUsed": 1740705264708,
+                        "dateLastUsed": 1741577520757,
                         "id": "18702",
                         "index": 8,
                         "parentId": "18561",
@@ -5324,7 +5384,7 @@
                     },
                     {
                         "dateAdded": 1740533973373,
-                        "dateLastUsed": 1740571292453,
+                        "dateLastUsed": 1741577500888,
                         "id": "18718",
                         "index": 24,
                         "parentId": "18561",
@@ -5400,32 +5460,71 @@
                     },
                     {
                         "dateAdded": 1740533973375,
-                        "dateLastUsed": 1740533976638,
+                        "dateLastUsed": 1740896538888,
                         "id": "18727",
                         "index": 33,
                         "parentId": "18561",
                         "title": "Poply",
                         "url": "https://poply.xyz/launchpad/0xd97bce4518b886a36e345764333d77b5faf6fe2c"
+                    },
+                    {
+                        "dateAdded": 1740758542331,
+                        "id": "19230",
+                        "index": 34,
+                        "parentId": "18561",
+                        "title": "Binance Account Bound Token",
+                        "url": "https://www.binance.com/en/babt"
+                    },
+                    {
+                        "dateAdded": 1740765179019,
+                        "id": "19229",
+                        "index": 35,
+                        "parentId": "18561",
+                        "title": "Passport XYZ | Dashboard",
+                        "url": "https://app.passport.xyz/#/dashboard"
+                    },
+                    {
+                        "dateAdded": 1740896141584,
+                        "id": "19231",
+                        "index": 36,
+                        "parentId": "18561",
+                        "title": "Mon AI",
+                        "url": "https://monai.gg/nft?tab=mint-box"
+                    },
+                    {
+                        "dateAdded": 1741106208256,
+                        "id": "19233",
+                        "index": 37,
+                        "parentId": "18561",
+                        "title": "monad.fantasy.top",
+                        "url": "https://monad.fantasy.top/"
+                    },
+                    {
+                        "dateAdded": 1741106891077,
+                        "id": "19234",
+                        "index": 38,
+                        "parentId": "18561",
+                        "title": "Magma",
+                        "url": "https://www.magmastaking.xyz/"
+                    },
+                    {
+                        "dateAdded": 1741106917586,
+                        "id": "19235",
+                        "index": 39,
+                        "parentId": "18561",
+                        "title": "aPriori Staking",
+                        "url": "https://stake.apr.io/"
                     }
                 ],
                 "dateAdded": 1740533973334,
-                "dateGroupModified": 1740533973375,
+                "dateGroupModified": 1741106917586,
                 "id": "18561",
                 "index": 7,
                 "parentId": "1",
                 "title": "BlockChain"
             },
             {
-                "children": [
-                    {
-                        "dateAdded": 1740533973375,
-                        "id": "18728",
-                        "index": 0,
-                        "parentId": "18562",
-                        "title": "Crypto Fear & Greed Index - Bitcoin Sentiment - Alternative.me",
-                        "url": "https://alternative.me/crypto/fear-and-greed-index/"
-                    }
-                ],
+                "children": [],
                 "dateAdded": 1740533973334,
                 "dateGroupModified": 1740533973375,
                 "id": "18562",
