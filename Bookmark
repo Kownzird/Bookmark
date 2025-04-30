@@ -5,7 +5,7 @@
                 "children": [
                     {
                         "dateAdded": 1742023561238,
-                        "dateLastUsed": 1742174487061,
+                        "dateLastUsed": 1745217915329,
                         "id": "20745",
                         "index": 0,
                         "parentId": "20737",
@@ -24,6 +24,7 @@
                     },
                     {
                         "dateAdded": 1742023561238,
+                        "dateLastUsed": 1745478677824,
                         "id": "20748",
                         "index": 2,
                         "parentId": "20737",
@@ -32,9 +33,20 @@
                         "url": "https://dict.youdao.com/"
                     },
                     {
-                        "dateAdded": 1742023561238,
-                        "id": "20752",
+                        "dateAdded": 1743385145218,
+                        "dateLastUsed": 1745834933511,
+                        "id": "21313",
                         "index": 3,
+                        "parentId": "20737",
+                        "syncing": true,
+                        "title": "Google 翻译",
+                        "url": "https://translate.google.com/?hl=zh-cn&sl=auto&tl=en&op=translate"
+                    },
+                    {
+                        "dateAdded": 1742023561238,
+                        "dateLastUsed": 1742955355561,
+                        "id": "20752",
+                        "index": 4,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "在线翻译_有道",
@@ -42,8 +54,9 @@
                     },
                     {
                         "dateAdded": 1742023561238,
+                        "dateLastUsed": 1744681575791,
                         "id": "20740",
-                        "index": 4,
+                        "index": 5,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "哔哩哔哩",
@@ -51,8 +64,9 @@
                     },
                     {
                         "dateAdded": 1742023561239,
+                        "dateLastUsed": 1745294817095,
                         "id": "20755",
-                        "index": 5,
+                        "index": 6,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "CSDN",
@@ -61,7 +75,7 @@
                     {
                         "dateAdded": 1742023561239,
                         "id": "20754",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "GitLab",
@@ -70,7 +84,7 @@
                     {
                         "dateAdded": 1742023561239,
                         "id": "20744",
-                        "index": 7,
+                        "index": 8,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "Kownzird · GitHub",
@@ -79,7 +93,7 @@
                     {
                         "dateAdded": 1742023561239,
                         "id": "20739",
-                        "index": 8,
+                        "index": 9,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "知乎",
@@ -88,7 +102,7 @@
                     {
                         "dateAdded": 1742023561239,
                         "id": "20749",
-                        "index": 9,
+                        "index": 10,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "有道翻译",
@@ -97,7 +111,7 @@
                     {
                         "dateAdded": 1742023561239,
                         "id": "20753",
-                        "index": 10,
+                        "index": 11,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "清华大学开源软件镜像站",
@@ -105,8 +119,9 @@
                     },
                     {
                         "dateAdded": 1742023561239,
+                        "dateLastUsed": 1743492565604,
                         "id": "20741",
-                        "index": 11,
+                        "index": 12,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "QQ邮箱",
@@ -115,7 +130,7 @@
                     {
                         "dateAdded": 1742023561240,
                         "id": "20751",
-                        "index": 12,
+                        "index": 13,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "阿里云盘",
@@ -124,7 +139,7 @@
                     {
                         "dateAdded": 1742023561240,
                         "id": "20738",
-                        "index": 13,
+                        "index": 14,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "SM.MS",
@@ -133,7 +148,7 @@
                     {
                         "dateAdded": 1742023561240,
                         "id": "20747",
-                        "index": 14,
+                        "index": 15,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "ShowDoc",
@@ -142,7 +157,7 @@
                     {
                         "dateAdded": 1742023561240,
                         "id": "20750",
-                        "index": 15,
+                        "index": 16,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "LDRClaimer - CodeSandbox",
@@ -151,7 +166,7 @@
                     {
                         "dateAdded": 1742023561240,
                         "id": "20746",
-                        "index": 16,
+                        "index": 17,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "云服务器管理控制台",
@@ -160,15 +175,24 @@
                     {
                         "dateAdded": 1742023561240,
                         "id": "20743",
-                        "index": 17,
+                        "index": 18,
                         "parentId": "20737",
                         "syncing": true,
                         "title": "Eureka",
                         "url": "https://eureka.zhihuiya.com/home"
+                    },
+                    {
+                        "dateAdded": 1743411255276,
+                        "id": "21314",
+                        "index": 19,
+                        "parentId": "20737",
+                        "syncing": true,
+                        "title": "Figma",
+                        "url": "https://www.figma.com/design/nMwuCdIhj6jrEbnySH0Q5s/Coffe-Expert---Working-File?node-id=512-43998&t=yuQO8dB9uxncweZH-1"
                     }
                 ],
                 "dateAdded": 1742023561237,
-                "dateGroupModified": 1742023561240,
+                "dateGroupModified": 1743411981925,
                 "id": "20737",
                 "index": 0,
                 "parentId": "1",
@@ -4201,10 +4225,19 @@
                         "syncing": true,
                         "title": "mongoose 应用程序开发流程",
                         "url": "https://blog.csdn.net/tianyexing2008/article/details/126563370"
+                    },
+                    {
+                        "dateAdded": 1744650544416,
+                        "id": "21325",
+                        "index": 5,
+                        "parentId": "20688",
+                        "syncing": true,
+                        "title": "解决Win11 24H2访问samba出现扩展错误问题_访问共享出现扩展错误-CSDN博客",
+                        "url": "https://blog.csdn.net/hustluotao/article/details/143863266?ops_request_misc=%257B%2522request%255Fid%2522%253A%252216f6f998652aa4c04f09a0a7a7e6b0de%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=16f6f998652aa4c04f09a0a7a7e6b0de&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-143863266-null-null.142^v102^pc_search_result_base6&utm_term=samba%20%E5%9B%A0%E4%B8%BA%E5%87%BA%E7%8E%B0%E6%89%A9%E5%B1%95%E9%94%99%E8%AF%AF&spm=1018.2226.3001.4187"
                     }
                 ],
                 "dateAdded": 1742023561237,
-                "dateGroupModified": 1742023561247,
+                "dateGroupModified": 1744681291139,
                 "id": "20688",
                 "index": 3,
                 "parentId": "1",
@@ -4233,6 +4266,7 @@
                     },
                     {
                         "dateAdded": 1742023561247,
+                        "dateLastUsed": 1744790891889,
                         "id": "21243",
                         "index": 2,
                         "parentId": "21230",
@@ -4242,6 +4276,7 @@
                     },
                     {
                         "dateAdded": 1742023561248,
+                        "dateLastUsed": 1745734110287,
                         "id": "21244",
                         "index": 3,
                         "parentId": "21230",
@@ -4278,6 +4313,7 @@
                     },
                     {
                         "dateAdded": 1742023561248,
+                        "dateLastUsed": 1745977343545,
                         "id": "21255",
                         "index": 7,
                         "parentId": "21230",
@@ -4296,6 +4332,7 @@
                     },
                     {
                         "dateAdded": 1742023561248,
+                        "dateLastUsed": 1745227720497,
                         "id": "21237",
                         "index": 9,
                         "parentId": "21230",
@@ -4314,6 +4351,7 @@
                     },
                     {
                         "dateAdded": 1742023561249,
+                        "dateLastUsed": 1742269616253,
                         "id": "21272",
                         "index": 11,
                         "parentId": "21230",
@@ -4323,6 +4361,7 @@
                     },
                     {
                         "dateAdded": 1742023561249,
+                        "dateLastUsed": 1745754350280,
                         "id": "21233",
                         "index": 12,
                         "parentId": "21230",
@@ -4386,6 +4425,7 @@
                     },
                     {
                         "dateAdded": 1742023561250,
+                        "dateLastUsed": 1743476048087,
                         "id": "21269",
                         "index": 19,
                         "parentId": "21230",
@@ -4395,6 +4435,7 @@
                     },
                     {
                         "dateAdded": 1742023561250,
+                        "dateLastUsed": 1745207273839,
                         "id": "21268",
                         "index": 20,
                         "parentId": "21230",
@@ -4404,6 +4445,7 @@
                     },
                     {
                         "dateAdded": 1742023561250,
+                        "dateLastUsed": 1744187669507,
                         "id": "21258",
                         "index": 21,
                         "parentId": "21230",
@@ -4449,17 +4491,8 @@
                     },
                     {
                         "dateAdded": 1742023561251,
-                        "id": "21278",
-                        "index": 26,
-                        "parentId": "21230",
-                        "syncing": true,
-                        "title": "工作任务-202406",
-                        "url": "https://cvte.kdocs.cn/l/cn8EGTCxJZUW"
-                    },
-                    {
-                        "dateAdded": 1742023561251,
                         "id": "21238",
-                        "index": 27,
+                        "index": 26,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "MCU OTA 服务-MCU 标准协议接入-涂鸦开发者",
@@ -4467,17 +4500,8 @@
                     },
                     {
                         "dateAdded": 1742023561251,
-                        "id": "21289",
-                        "index": 28,
-                        "parentId": "21230",
-                        "syncing": true,
-                        "title": "工作任务-202407",
-                        "url": "https://cvte.kdocs.cn/l/ctR0RY2X495i"
-                    },
-                    {
-                        "dateAdded": 1742023561251,
                         "id": "21256",
-                        "index": 29,
+                        "index": 27,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "Tuya Wind IDE-TuyaOS-涂鸦开发者",
@@ -4485,17 +4509,8 @@
                     },
                     {
                         "dateAdded": 1742023561251,
-                        "id": "21273",
-                        "index": 30,
-                        "parentId": "21230",
-                        "syncing": true,
-                        "title": "登辉2.4吋项目问题list",
-                        "url": "https://cvte.kdocs.cn/l/cp1wXPlBBoxY"
-                    },
-                    {
-                        "dateAdded": 1742023561251,
                         "id": "21274",
-                        "index": 31,
+                        "index": 28,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "eIPD",
@@ -4504,7 +4519,7 @@
                     {
                         "dateAdded": 1742023561252,
                         "id": "21286",
-                        "index": 32,
+                        "index": 29,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "涂鸦开发者平台",
@@ -4513,7 +4528,7 @@
                     {
                         "dateAdded": 1742023561252,
                         "id": "21240",
-                        "index": 33,
+                        "index": 30,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "TuyaOS-涂鸦开发者文档",
@@ -4522,7 +4537,7 @@
                     {
                         "dateAdded": 1742023561252,
                         "id": "21245",
-                        "index": 34,
+                        "index": 31,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "AndeSight™ IDE Download ",
@@ -4531,7 +4546,7 @@
                     {
                         "dateAdded": 1742023561252,
                         "id": "21242",
-                        "index": 35,
+                        "index": 32,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "AndeSight™ IDE Download - Andes Technology",
@@ -4540,7 +4555,7 @@
                     {
                         "dateAdded": 1742023561252,
                         "id": "21264",
-                        "index": 36,
+                        "index": 33,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "01_Tina系统 编译环境搭建 & 编译 & 烧录 - 白电研发知识库 - CVTE 知识库",
@@ -4549,7 +4564,7 @@
                     {
                         "dateAdded": 1742023561252,
                         "id": "21271",
-                        "index": 37,
+                        "index": 34,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "03_全志支持系统信息 - 白电研发知识库 - CVTE 知识库",
@@ -4557,8 +4572,9 @@
                     },
                     {
                         "dateAdded": 1742023561252,
+                        "dateLastUsed": 1744681092253,
                         "id": "21249",
-                        "index": 38,
+                        "index": 35,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "06_Tina客制化开发 - 白电研发知识库 - CVTE 知识库",
@@ -4567,7 +4583,7 @@
                     {
                         "dateAdded": 1742023561253,
                         "id": "21266",
-                        "index": 39,
+                        "index": 36,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "lottie动画在线预览",
@@ -4576,7 +4592,7 @@
                     {
                         "dateAdded": 1742023561253,
                         "id": "21239",
-                        "index": 40,
+                        "index": 37,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "OAR-V2 - 员工个人中心",
@@ -4585,7 +4601,7 @@
                     {
                         "dateAdded": 1742023561253,
                         "id": "21263",
-                        "index": 41,
+                        "index": 38,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "智慧芽",
@@ -4594,7 +4610,7 @@
                     {
                         "dateAdded": 1742023561253,
                         "id": "21279",
-                        "index": 42,
+                        "index": 39,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "研发常用资料链接 - 白电研发知识库 - CVTE 知识库",
@@ -4602,8 +4618,9 @@
                     },
                     {
                         "dateAdded": 1742023561253,
+                        "dateLastUsed": 1743040860163,
                         "id": "21236",
-                        "index": 43,
+                        "index": 40,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "需求 #80675: LVGL lottie动画不生效 - R818-CVTE-智能家电-智能洗衣机-量产支持 - AService",
@@ -4612,7 +4629,7 @@
                     {
                         "dateAdded": 1742023561253,
                         "id": "21280",
-                        "index": 44,
+                        "index": 41,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "File to hex converter",
@@ -4620,8 +4637,9 @@
                     },
                     {
                         "dateAdded": 1742023561253,
+                        "dateLastUsed": 1742460831520,
                         "id": "21282",
-                        "index": 45,
+                        "index": 42,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "LottieFiles: Download Free lightweight animations for website & apps.",
@@ -4630,7 +4648,7 @@
                     {
                         "dateAdded": 1742023561253,
                         "id": "21260",
-                        "index": 46,
+                        "index": 43,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "lvgl_糯米宝宝的博客-CSDN博客",
@@ -4639,7 +4657,7 @@
                     {
                         "dateAdded": 1742023561254,
                         "id": "21284",
-                        "index": 47,
+                        "index": 44,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "lvgl绘图机制 - 知乎",
@@ -4647,8 +4665,9 @@
                     },
                     {
                         "dateAdded": 1742023561254,
+                        "dateLastUsed": 1744187677794,
                         "id": "21248",
-                        "index": 48,
+                        "index": 45,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "CVTE-文档 - 坚果云 - 广州视源电子科技股份有限公司",
@@ -4657,7 +4676,7 @@
                     {
                         "dateAdded": 1742023561254,
                         "id": "21252",
-                        "index": 49,
+                        "index": 46,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "百问网全志D1h开发板LVGL9移植详细教程_lvgl 9.0移植-CSDN博客",
@@ -4666,7 +4685,7 @@
                     {
                         "dateAdded": 1742023561255,
                         "id": "21247",
-                        "index": 50,
+                        "index": 47,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "LVGL在Linux帧缓冲上的配置与使用手册-CSDN博客",
@@ -4674,17 +4693,8 @@
                     },
                     {
                         "dateAdded": 1742023561255,
-                        "id": "21259",
-                        "index": 51,
-                        "parentId": "21230",
-                        "syncing": true,
-                        "title": "m5-docs",
-                        "url": "https://docs.m5stack.com/zh_CN/core/VA%20Meter"
-                    },
-                    {
-                        "dateAdded": 1742023561255,
                         "id": "21246",
-                        "index": 52,
+                        "index": 48,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "SDL2/Installation - SDL2 Wiki",
@@ -4693,7 +4703,7 @@
                     {
                         "dateAdded": 1742023561255,
                         "id": "21276",
-                        "index": 53,
+                        "index": 49,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "快速入门 - ESP32-S3 - — ESP-IDF 编程指南 latest 文档",
@@ -4702,7 +4712,7 @@
                     {
                         "dateAdded": 1742023561255,
                         "id": "21261",
-                        "index": 54,
+                        "index": 50,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "dl.espressif.com.cn/dl/esp-idf/?idf=4.4",
@@ -4710,17 +4720,8 @@
                     },
                     {
                         "dateAdded": 1742023561255,
-                        "id": "21288",
-                        "index": 55,
-                        "parentId": "21230",
-                        "syncing": true,
-                        "title": "VAMeter",
-                        "url": "https://ezdata-vameter.m5stack.com/48CA4339B2DC"
-                    },
-                    {
-                        "dateAdded": 1742023561255,
                         "id": "21235",
-                        "index": 56,
+                        "index": 51,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "ESP-IDF Programming Guide - ESP32-S3 - — ESP-IDF Programming Guide v5.1.3 documentation",
@@ -4729,7 +4730,7 @@
                     {
                         "dateAdded": 1742023561255,
                         "id": "21251",
-                        "index": 57,
+                        "index": 52,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "快速入门 - ESP32-S3 - — ESP-IDF 编程指南 v5.1.3 文档",
@@ -4738,15 +4739,235 @@
                     {
                         "dateAdded": 1742023561256,
                         "id": "21254",
-                        "index": 58,
+                        "index": 53,
                         "parentId": "21230",
                         "syncing": true,
                         "title": "Serial-Studio：一个跨平台的嵌入式数据可视化神器",
                         "url": "https://mp.weixin.qq.com/s/9eQXz6Y6RbJ9QIxlixXxXQ"
+                    },
+                    {
+                        "dateAdded": 1742547322899,
+                        "dateLastUsed": 1743384996485,
+                        "id": "21307",
+                        "index": 54,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "Arcelik Coffe Expert - Working File – Figma",
+                        "url": "https://www.figma.com/design/vYclVCGrJxmgK5PTPUPZi4/Coffe-Expert---Working-File?node-id=932-60503&p=f&t=EkHwWmUmG1O2PomU-0"
+                    },
+                    {
+                        "dateAdded": 1742980813792,
+                        "id": "21309",
+                        "index": 55,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "开会 | Microsoft Teams",
+                        "url": "https://teams.live.com/v2"
+                    },
+                    {
+                        "dateAdded": 1743039627121,
+                        "id": "21310",
+                        "index": 56,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "首页 - C知2.0",
+                        "url": "https://cvte.yunxuetang.cn/main/#/index"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1742023561255,
+                                "dateLastUsed": 1745284195244,
+                                "id": "21288",
+                                "index": 0,
+                                "parentId": "21311",
+                                "syncing": true,
+                                "title": "VAMeter",
+                                "url": "https://ezdata-vameter.m5stack.com/48CA4339B2DC"
+                            },
+                            {
+                                "dateAdded": 1742023561255,
+                                "dateLastUsed": 1745284203795,
+                                "id": "21259",
+                                "index": 1,
+                                "parentId": "21311",
+                                "syncing": true,
+                                "title": "m5-docs",
+                                "url": "https://docs.m5stack.com/zh_CN/core/VA%20Meter"
+                            }
+                        ],
+                        "dateAdded": 1743040762650,
+                        "dateGroupModified": 1743040783308,
+                        "id": "21311",
+                        "index": 57,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "VAMeter"
+                    },
+                    {
+                        "dateAdded": 1743411981925,
+                        "dateLastUsed": 1745373549389,
+                        "id": "21316",
+                        "index": 58,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "Coffe Expert - Working File – Figma",
+                        "url": "https://www.figma.com/design/nMwuCdIhj6jrEbnySH0Q5s/Coffe-Expert---Working-File?node-id=512-43998&p=f&t=T7046iOPcfW0tXOo-0"
+                    },
+                    {
+                        "dateAdded": 1743412235183,
+                        "dateLastUsed": 1745912340231,
+                        "id": "21317",
+                        "index": 59,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "Coffe Expert - Working File – Figma",
+                        "url": "https://www.figma.com/design/nMwuCdIhj6jrEbnySH0Q5s/Coffe-Expert---Working-File?node-id=512-43994&p=f&t=T7046iOPcfW0tXOo-0"
+                    },
+                    {
+                        "dateAdded": 1744169618198,
+                        "id": "21319",
+                        "index": 60,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "H133 SDK 编译烧录正常，运行出错 | 全志在线开发者论坛",
+                        "url": "https://bbs.aw-ol.com/topic/3030/h133-sdk-%E7%BC%96%E8%AF%91%E7%83%A7%E5%BD%95%E6%AD%A3%E5%B8%B8-%E8%BF%90%E8%A1%8C%E5%87%BA%E9%94%99"
+                    },
+                    {
+                        "dateAdded": 1744187660703,
+                        "id": "21321",
+                        "index": 61,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "TLT113-MiniEVM 启动引导失败：E/TC:0 0 check_hardware_info:90 hardware check error1 | 全志在线开发者论坛",
+                        "url": "https://bbs.aw-ol.com/topic/5136/tlt113-minievm-%E5%90%AF%E5%8A%A8%E5%BC%95%E5%AF%BC%E5%A4%B1%E8%B4%A5-e-tc-0-0-check_hardware_info-90-hardware-check-error1/2?_=1744182445330&amp;lang=zh-CN"
+                    },
+                    {
+                        "dateAdded": 1744187822853,
+                        "id": "21322",
+                        "index": 62,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "E6804U - 坚果云 - 广州视源电子科技股份有限公司",
+                        "url": "https://drive.cvte.com/p/DWSitQ4QioAEGJ_uMiAA"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1745481518385,
+                                "id": "21329",
+                                "index": 0,
+                                "parentId": "21330",
+                                "syncing": true,
+                                "title": "TuyaOS 开发模式-TuyaOS-涂鸦开发者",
+                                "url": "https://developer.tuya.com/cn/docs/iot-device-dev/TuyaOS-Development_mode?id=Kc3q5iyvlk9xq"
+                            }
+                        ],
+                        "dateAdded": 1745481531599,
+                        "dateGroupModified": 1745486319437,
+                        "id": "21330",
+                        "index": 63,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "Tuya"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1745486319437,
+                                "id": "21331",
+                                "index": 0,
+                                "parentId": "21332",
+                                "syncing": true,
+                                "title": "全志客户服务平台",
+                                "url": "https://open.allwinnertech.com/#/faq/0/show?faqId=1075&menuID=17"
+                            },
+                            {
+                                "dateAdded": 1745564167481,
+                                "id": "21333",
+                                "index": 1,
+                                "parentId": "21332",
+                                "syncing": true,
+                                "title": "主页 | 全志在线开发者论坛",
+                                "url": "https://bbs.aw-ol.com/"
+                            },
+                            {
+                                "dateAdded": 1744681291139,
+                                "dateLastUsed": 1745219124274,
+                                "id": "21326",
+                                "index": 2,
+                                "parentId": "21332",
+                                "syncing": true,
+                                "title": "全志客户服务平台",
+                                "url": "https://open.allwinnertech.com/#/dashboard?menuID=1"
+                            },
+                            {
+                                "dateAdded": 1744689080331,
+                                "dateLastUsed": 1745219173228,
+                                "id": "21327",
+                                "index": 3,
+                                "parentId": "21332",
+                                "syncing": true,
+                                "title": "Tina Linux 框架下的 LCD 屏幕适配 | 柚木鉉の空間 GloomyGhost Blog",
+                                "url": "https://www.gloomyghost.com/live/20220808.aspx"
+                            },
+                            {
+                                "dateAdded": 1745979634156,
+                                "id": "21335",
+                                "index": 4,
+                                "parentId": "21332",
+                                "syncing": true,
+                                "title": "[RK3568][Android11][Wifi6-aic8800]调试_android_skid-腾讯云开发者社区",
+                                "url": "https://tencentcloud.csdn.net/65b0c42f28cf1d21b51ff5d0.html"
+                            },
+                            {
+                                "dateAdded": 1745979638756,
+                                "id": "21336",
+                                "index": 5,
+                                "parentId": "21332",
+                                "syncing": true,
+                                "title": "爱科微AIC8800D80P Wi-Fi6模块驱动移植 - zhijun - 博客园",
+                                "url": "https://www.cnblogs.com/zhijun1996/p/18545223"
+                            },
+                            {
+                                "dateAdded": 1745979645913,
+                                "id": "21337",
+                                "index": 6,
+                                "parentId": "21332",
+                                "syncing": true,
+                                "title": "linux | RK3568 Debian AIC8800移植-CSDN博客",
+                                "url": "https://blog.csdn.net/zyaaaac/article/details/133947137"
+                            },
+                            {
+                                "dateAdded": 1745979648537,
+                                "id": "21338",
+                                "index": 7,
+                                "parentId": "21332",
+                                "syncing": true,
+                                "title": "linux如何配置emmc和sd卡的各种速率_cap-mmc-highspeed-CSDN博客",
+                                "url": "https://blog.csdn.net/szembed/article/details/132278368"
+                            },
+                            {
+                                "dateAdded": 1745979674462,
+                                "id": "21339",
+                                "index": 8,
+                                "parentId": "21332",
+                                "syncing": true,
+                                "title": "11全志r58m打emmc v5.1的patch之后wifi不能用的问题_smc 2 p1 err, cmd 52, rto !!-CSDN博客",
+                                "url": "https://blog.csdn.net/wb4916/article/details/83823917"
+                            }
+                        ],
+                        "dateAdded": 1745486328813,
+                        "dateGroupModified": 1745979674462,
+                        "id": "21332",
+                        "index": 64,
+                        "parentId": "21230",
+                        "syncing": true,
+                        "title": "Tina"
                     }
                 ],
                 "dateAdded": 1742023561237,
-                "dateGroupModified": 1742023561256,
+                "dateGroupModified": 1745481518385,
                 "id": "21230",
                 "index": 4,
                 "parentId": "1",
@@ -5214,6 +5435,7 @@
                             },
                             {
                                 "dateAdded": 1742023561296,
+                                "dateLastUsed": 1745821365570,
                                 "id": "20636",
                                 "index": 6,
                                 "parentId": "20635",
@@ -5232,7 +5454,7 @@
                             }
                         ],
                         "dateAdded": 1742023561256,
-                        "dateGroupModified": 1742174548867,
+                        "dateGroupModified": 1742547322899,
                         "id": "20635",
                         "index": 0,
                         "parentId": "20634",
@@ -5252,6 +5474,7 @@
                             },
                             {
                                 "dateAdded": 1742023561296,
+                                "dateLastUsed": 1742396972210,
                                 "id": "20679",
                                 "index": 1,
                                 "parentId": "20664",
@@ -5378,6 +5601,7 @@
                             },
                             {
                                 "dateAdded": 1742023561299,
+                                "dateLastUsed": 1745912418495,
                                 "id": "20672",
                                 "index": 15,
                                 "parentId": "20664",
@@ -5387,6 +5611,7 @@
                             },
                             {
                                 "dateAdded": 1742023561299,
+                                "dateLastUsed": 1745912435903,
                                 "id": "20666",
                                 "index": 16,
                                 "parentId": "20664",
@@ -5396,6 +5621,7 @@
                             },
                             {
                                 "dateAdded": 1742023561299,
+                                "dateLastUsed": 1742453419662,
                                 "id": "20675",
                                 "index": 17,
                                 "parentId": "20664",
@@ -5452,6 +5678,7 @@
                             },
                             {
                                 "dateAdded": 1742023561300,
+                                "dateLastUsed": 1742525858289,
                                 "id": "20658",
                                 "index": 1,
                                 "parentId": "20643",
@@ -5461,6 +5688,7 @@
                             },
                             {
                                 "dateAdded": 1742023561300,
+                                "dateLastUsed": 1744790927727,
                                 "id": "20657",
                                 "index": 2,
                                 "parentId": "20643",
@@ -5587,6 +5815,7 @@
                             },
                             {
                                 "dateAdded": 1742023561302,
+                                "dateLastUsed": 1742526223588,
                                 "id": "20648",
                                 "index": 16,
                                 "parentId": "20643",
@@ -5641,6 +5870,7 @@
                     },
                     {
                         "dateAdded": 1742023561257,
+                        "dateLastUsed": 1743990596560,
                         "id": "20687",
                         "index": 4,
                         "parentId": "20634",
@@ -5748,6 +5978,7 @@
                         "children": [
                             {
                                 "dateAdded": 1742023561304,
+                                "dateLastUsed": 1745679772298,
                                 "id": "21179",
                                 "index": 0,
                                 "parentId": "21178",
@@ -5797,7 +6028,7 @@
                         "children": [
                             {
                                 "dateAdded": 1742023561304,
-                                "dateLastUsed": 1742143153879,
+                                "dateLastUsed": 1744200168306,
                                 "id": "21225",
                                 "index": 0,
                                 "parentId": "21224",
@@ -6028,6 +6259,7 @@
                     },
                     {
                         "dateAdded": 1742023561259,
+                        "dateLastUsed": 1742348415417,
                         "id": "21203",
                         "index": 24,
                         "parentId": "21174",
@@ -6169,10 +6401,19 @@
                         "syncing": true,
                         "title": "aPriori Staking",
                         "url": "https://stake.apr.io/"
+                    },
+                    {
+                        "dateAdded": 1744382375447,
+                        "id": "21324",
+                        "index": 40,
+                        "parentId": "21174",
+                        "syncing": true,
+                        "title": "Verifiers: Deploy your hosted LayerEdge CLI Light-Client",
+                        "url": "https://verifiers.network/"
                     }
                 ],
                 "dateAdded": 1742023561238,
-                "dateGroupModified": 1742023561261,
+                "dateGroupModified": 1744382375447,
                 "id": "21174",
                 "index": 7,
                 "parentId": "1",
